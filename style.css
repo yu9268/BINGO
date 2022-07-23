@@ -1,5 +1,9 @@
-body {
+.container {
   font-family: "Courier New", monospace;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  margin: 0 auto;
 }
 
 th, td {
